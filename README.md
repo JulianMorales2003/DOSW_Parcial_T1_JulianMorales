@@ -48,7 +48,7 @@
 
 **REQUERIMIENTO 1**
 
-<img width="690" height="591" alt="image" src="https://github.com/user-attachments/assets/f5a677b4-3920-447e-969e-845df56fa977" />
+<img width="549" height="353" alt="image" src="https://github.com/user-attachments/assets/aa63f6a6-8d78-4555-b9dd-42dbd41aa657" />
 
 
 <img width="688" height="325" alt="image" src="https://github.com/user-attachments/assets/73c36688-99c9-47a5-add3-058801a28c20" />
