@@ -12,8 +12,20 @@
 
 **FUNCIONALES**
 
+**1.CHAIN OF RESPONSABILITY**
+<img width="694" height="436" alt="image" src="https://github.com/user-attachments/assets/fda7122f-a514-43fa-b666-e462ab0e210f" />
+
+**2.ADAPTER**
+<img width="697" height="176" alt="image" src="https://github.com/user-attachments/assets/629426be-7add-4d95-9824-aecaf5359504" />
+
+**3.**
+<img width="689" height="265" alt="image" src="https://github.com/user-attachments/assets/e65e6773-bcc7-47f7-a952-1a3e0e69d67a" />
+
+**NO FUNCIONALES**
+
 **1.**
 
+**2.**
 
 
 ##3. HISTORIA DE USO
