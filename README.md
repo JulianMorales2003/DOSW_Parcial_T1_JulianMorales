@@ -1,1 +1,6 @@
 # DOSW_Parcial_T1_JulianMorales
+
+---
+#CALIFICADO SOBRE 4.5 - ENUNCIADO 2
+
+##1. DIAGRAMA DE CONTEXTO
