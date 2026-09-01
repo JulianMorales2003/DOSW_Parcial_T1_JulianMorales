@@ -25,8 +25,7 @@
 **3.**
 
 
-<img width="689" height="265" alt="image" src="https://github.com/user-attachments/assets/e65e6773-bcc7-47f7-a952-1a3e0e69d67a" />
-
+<img width="687" height="178" alt="image" src="https://github.com/user-attachments/assets/216d8900-8eec-4d8b-834e-0d3b457154d4" />
 
 
 **NO FUNCIONALES**
