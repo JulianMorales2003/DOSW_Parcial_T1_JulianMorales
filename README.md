@@ -97,5 +97,6 @@
 4. Crear el adaptador para Stripe y para el pago en efectivo.
 5. Simular las reglas de cada proveedor (terminación 65, cuentas 1/2/3/4, cvv 555, monto ≥ $10.000).
 
+---
 ## 6 Modelado
 
