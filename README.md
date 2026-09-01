@@ -32,7 +32,12 @@
 
 **1.**
 
+<img width="700" height="170" alt="image" src="https://github.com/user-attachments/assets/02c9e787-6e33-408f-af37-6bbe45598396" />
+
+
 **2.**
+
+<img width="673" height="140" alt="image" src="https://github.com/user-attachments/assets/93485ceb-4684-445a-879b-70b9f40a988e" />
 
 
 ##3. HISTORIA DE USO
