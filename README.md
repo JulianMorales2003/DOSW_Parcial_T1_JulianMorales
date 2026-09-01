@@ -81,7 +81,7 @@ Permitir que el cliente pague su turno sin importar el medio de pago que use, y 
 - ¿Quién obtiene valor?: Cliente, Administrador, Barbería recibe el cobro sin fallas por integración.
 
 **Historia de Usuario:**
-> Como cliente, quiero pagar mi turno con Nequi, PSE, Stripe o efectivo, para usar el medio que ya tengo a la mano sin que el sistema me pida datos ni pasos distintos según el proveedor.
+- Como cliente, quiero pagar mi turno con Nequi, PSE, Stripe o efectivo, para usar el medio que ya tengo a la mano sin que el sistema me pida datos ni pasos distintos según el proveedor.
 
 **Criterios de aceptación:**
 - Dado que elijo un medio de pago válido, cuando confirmo el pago, entonces recibo un estado claro: APROBADO, RECHAZADO o PENDING.
