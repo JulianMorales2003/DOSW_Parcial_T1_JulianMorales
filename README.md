@@ -62,3 +62,12 @@
 
 **REQUERIMIENTO 2**
 
+<img width="548" height="482" alt="image" src="https://github.com/user-attachments/assets/38ecf43a-2d0d-4ba9-9c69-161e7aa2780a" />
+
+<img width="549" height="392" alt="image" src="https://github.com/user-attachments/assets/c5ae26a3-e156-4372-9b8f-509ee6bf9f2a" />
+
+<img width="421" height="448" alt="image" src="https://github.com/user-attachments/assets/fc006889-c4c2-4d5a-8c1a-ab5a2e2d48b7" />
+
+<img width="414" height="40" alt="image" src="https://github.com/user-attachments/assets/41305870-d78b-453e-bc54-57eb2d7defa0" />
+
+
