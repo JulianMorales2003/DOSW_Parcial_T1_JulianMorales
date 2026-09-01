@@ -15,17 +15,17 @@
 **1.CHAIN OF RESPONSABILITY**
 
 
-<img width="694" height="436" alt="image" src="https://github.com/user-attachments/assets/fda7122f-a514-43fa-b666-e462ab0e210f" />
+<img width="674" height="212" alt="image" src="https://github.com/user-attachments/assets/dcbb3d8f-5a69-41eb-b4c6-6d3de4b0e439" />
 
 **2.ADAPTER**
 
+<img width="678" height="174" alt="image" src="https://github.com/user-attachments/assets/e7ed92d8-1dc2-4552-befc-96211ae10083" />
 
-<img width="697" height="176" alt="image" src="https://github.com/user-attachments/assets/629426be-7add-4d95-9824-aecaf5359504" />
 
 **3.**
 
 
-<img width="687" height="178" alt="image" src="https://github.com/user-attachments/assets/216d8900-8eec-4d8b-834e-0d3b457154d4" />
+<img width="677" height="178" alt="image" src="https://github.com/user-attachments/assets/4a4c19a4-d4b7-4ec2-b6a3-7d28ea431f95" />
 
 
 **NO FUNCIONALES**
@@ -46,3 +46,13 @@
 
 
 ## 4. 
+
+<img width="690" height="591" alt="image" src="https://github.com/user-attachments/assets/f5a677b4-3920-447e-969e-845df56fa977" />
+
+
+<img width="688" height="325" alt="image" src="https://github.com/user-attachments/assets/73c36688-99c9-47a5-add3-058801a28c20" />
+
+
+<img width="428" height="545" alt="image" src="https://github.com/user-attachments/assets/5291ccb4-eb4e-4083-a42a-debd9910fb37" />
+
+
