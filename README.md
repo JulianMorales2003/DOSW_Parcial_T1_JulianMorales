@@ -98,5 +98,5 @@
 5. Simular las reglas de cada proveedor (terminación 65, cuentas 1/2/3/4, cvv 555, monto ≥ $10.000).
 
 ---
-## 6 Modelado
+## 6. Modelado
 
