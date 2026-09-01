@@ -42,8 +42,7 @@
 
 ## 3. HISTORIA DE USO
 
-<img width="617" height="428" alt="image" src="https://github.com/user-attachments/assets/8d5d99f2-ed12-4b74-a918-464645a72243" />
-
+<img width="563" height="308" alt="image" src="https://github.com/user-attachments/assets/8a5b4a2a-3364-43c8-ad2c-e4a69cfaf7dd" />
 
 ## 4. 
 
