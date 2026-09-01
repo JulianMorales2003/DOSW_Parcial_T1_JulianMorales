@@ -75,7 +75,9 @@
 ## 5. Descomposición de tareas 
 
 **Épica:** Pagos de Bob's Barber
-Permitir que el cliente pague su turno sin importar el medio de pago que use, y que internamente todos los pagos se manejen de la misma forma sin importar cómo responda cada proveedor.
+
+**Descripción**
+- Permitir que el cliente pague su turno sin importar el medio de pago que use, y que internamente todos los pagos se manejen de la misma forma sin importar cómo responda cada proveedor.
 
 **Feature:** Procesamiento de pago multipasarela
 - ¿Quién obtiene valor?: Cliente, Administrador, Barbería recibe el cobro sin fallas por integración.
